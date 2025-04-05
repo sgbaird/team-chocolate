@@ -7,3 +7,11 @@ main.out
 main.pdf
 main.synctex.gz
 main.blg
+main-old.bbl
+main-old.pdf
+.gitignore
+main-old.synctex.gz
+main.bcf
+main.run.xml
+main.spl
+secrets.txt
